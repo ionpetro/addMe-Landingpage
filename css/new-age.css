@@ -412,13 +412,14 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-outline {
   color: white;
   border: 1px solid;
-  border-color: white;
+  border-color: #d76a52;
+  background-color: #d76a52;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white;
-  border-color: #d76a52;
-  background-color: #d76a52;
+  background-color: #BCE2D5;
+  border-color: white;
 }
 
 .btn {
