@@ -8,4 +8,6 @@
 
 ## How to start?
 
-Go to [google play](https://play.google.com/store) store and download our app. Create an account and start exploring the world of addMe
+Go to [google play](https://play.google.com/store) store and download our app. Create an account and start exploring the world of addMe.
+
+Soon on IOS too.
