@@ -370,6 +370,14 @@ section.contact ul.list-social li.social-instagram a:hover {
   background-color: #8b046a;
 }
 
+section.contact ul.list-social li.social-youtube a {
+  background-color: #ff0000;
+}
+
+section.contact ul.list-social li.social-youtube a:hover {
+  background-color: #ff3333;
+}
+
 section.contact ul.list-social li.social-github a {
   background-color: #000000;
 }
